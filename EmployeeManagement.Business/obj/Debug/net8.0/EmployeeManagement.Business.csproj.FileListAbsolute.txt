@@ -1,0 +1,15 @@
+C:\Users\deven\OneDrive\Desktop\Customized Energy Solutions\EmployeeManagement.Business\obj\Debug\net8.0\EmployeeManagement.Business.csproj.AssemblyReference.cache
+C:\Users\deven\OneDrive\Desktop\Customized Energy Solutions\EmployeeManagement.Business\obj\Debug\net8.0\EmployeeManagement.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deven\OneDrive\Desktop\Customized Energy Solutions\EmployeeManagement.Business\obj\Debug\net8.0\EmployeeManagement.Business.AssemblyInfoInputs.cache
+C:\Users\deven\OneDrive\Desktop\Customized Energy Solutions\EmployeeManagement.Business\obj\Debug\net8.0\EmployeeManagement.Business.AssemblyInfo.cs
+C:\Users\deven\OneDrive\Desktop\Customized Energy Solutions\EmployeeManagement.Business\obj\Debug\net8.0\EmployeeManagement.Business.csproj.CoreCompileInputs.cache
+C:\Users\deven\OneDrive\Desktop\Customized Energy Solutions\EmployeeManagement.Business\bin\Debug\net8.0\EmployeeManagement.Business.deps.json
+C:\Users\deven\OneDrive\Desktop\Customized Energy Solutions\EmployeeManagement.Business\bin\Debug\net8.0\EmployeeManagement.Business.dll
+C:\Users\deven\OneDrive\Desktop\Customized Energy Solutions\EmployeeManagement.Business\bin\Debug\net8.0\EmployeeManagement.Business.pdb
+C:\Users\deven\OneDrive\Desktop\Customized Energy Solutions\EmployeeManagement.Business\bin\Debug\net8.0\EmployeeManagement.Repository.dll
+C:\Users\deven\OneDrive\Desktop\Customized Energy Solutions\EmployeeManagement.Business\bin\Debug\net8.0\EmployeeManagement.Repository.pdb
+C:\Users\deven\OneDrive\Desktop\Customized Energy Solutions\EmployeeManagement.Business\obj\Debug\net8.0\EmployeeManagement.Business.csproj.CopyComplete
+C:\Users\deven\OneDrive\Desktop\Customized Energy Solutions\EmployeeManagement.Business\obj\Debug\net8.0\EmployeeManagement.Business.dll
+C:\Users\deven\OneDrive\Desktop\Customized Energy Solutions\EmployeeManagement.Business\obj\Debug\net8.0\refint\EmployeeManagement.Business.dll
+C:\Users\deven\OneDrive\Desktop\Customized Energy Solutions\EmployeeManagement.Business\obj\Debug\net8.0\EmployeeManagement.Business.pdb
+C:\Users\deven\OneDrive\Desktop\Customized Energy Solutions\EmployeeManagement.Business\obj\Debug\net8.0\ref\EmployeeManagement.Business.dll

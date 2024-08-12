@@ -1,0 +1,14 @@
+C:\Users\deven\OneDrive\Desktop\Customized Energy Solutions\EmployeeManagement.Repository\obj\Debug\net8.0\EmployeeManagement.Repository.csproj.AssemblyReference.cache
+C:\Users\deven\OneDrive\Desktop\Customized Energy Solutions\EmployeeManagement.Repository\obj\Debug\net8.0\EmployeeManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deven\OneDrive\Desktop\Customized Energy Solutions\EmployeeManagement.Repository\obj\Debug\net8.0\EmployeeManagement.Repository.AssemblyInfoInputs.cache
+C:\Users\deven\OneDrive\Desktop\Customized Energy Solutions\EmployeeManagement.Repository\obj\Debug\net8.0\EmployeeManagement.Repository.AssemblyInfo.cs
+C:\Users\deven\OneDrive\Desktop\Customized Energy Solutions\EmployeeManagement.Repository\obj\Debug\net8.0\EmployeeManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\deven\OneDrive\Desktop\Customized Energy Solutions\EmployeeManagement.Repository\bin\Debug\net8.0\EmployeeManagement.Repository.deps.json
+C:\Users\deven\OneDrive\Desktop\Customized Energy Solutions\EmployeeManagement.Repository\bin\Debug\net8.0\EmployeeManagement.Repository.runtimeconfig.json
+C:\Users\deven\OneDrive\Desktop\Customized Energy Solutions\EmployeeManagement.Repository\bin\Debug\net8.0\EmployeeManagement.Repository.dll
+C:\Users\deven\OneDrive\Desktop\Customized Energy Solutions\EmployeeManagement.Repository\bin\Debug\net8.0\EmployeeManagement.Repository.pdb
+C:\Users\deven\OneDrive\Desktop\Customized Energy Solutions\EmployeeManagement.Repository\obj\Debug\net8.0\EmployeeManagement.Repository.dll
+C:\Users\deven\OneDrive\Desktop\Customized Energy Solutions\EmployeeManagement.Repository\obj\Debug\net8.0\refint\EmployeeManagement.Repository.dll
+C:\Users\deven\OneDrive\Desktop\Customized Energy Solutions\EmployeeManagement.Repository\obj\Debug\net8.0\EmployeeManagement.Repository.pdb
+C:\Users\deven\OneDrive\Desktop\Customized Energy Solutions\EmployeeManagement.Repository\obj\Debug\net8.0\EmployeeManagement.Repository.genruntimeconfig.cache
+C:\Users\deven\OneDrive\Desktop\Customized Energy Solutions\EmployeeManagement.Repository\obj\Debug\net8.0\ref\EmployeeManagement.Repository.dll
